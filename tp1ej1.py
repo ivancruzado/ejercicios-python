@@ -24,5 +24,5 @@ def mayor(uno,dos,tres):
     return mayor
 
 
-print(mayor(300,200,400))
+print(mayor(300,100,400))
 
